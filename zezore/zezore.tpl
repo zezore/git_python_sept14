@@ -33,11 +33,11 @@
     <div id='container'>
         <div id='name'>
             <span class='emphasis'>Pansit</span>
-            <p>blah blah blah <span class='emphasis'>blob</span> by the night.</p>
+            <p>blah blah blah, by the day <span class='emphasis'>blah blah blah</span> by the night.</p>
         </div>
         Quote:
         <div id='quote'>
-            <p>XX.</p>
+            <p>doing nothing</p>
         </div>
     </div>
 </body>
